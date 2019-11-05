@@ -23,13 +23,33 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void ej15(View view){
+        Intent i = new Intent(this, ejercicio15Parte1.class);
+        startActivity(i);
+    }
+
     public void ej25(View view){
         Intent i = new Intent(this, ej25.class);
         startActivity(i);
     }
 
+    public void ej26(View view){
+        Intent i = new Intent(this, ej26.class);
+        startActivity(i);
+    }
+
     public void ej36(View view){
         Intent i = new Intent(this, ej36.class);
+        startActivity(i);
+    }
+
+    public void ej39(View view){
+        Intent i = new Intent(this, ej39.class);
+        startActivity(i);
+    }
+
+    public void ej48(View view){
+        Intent i = new Intent(this, ej48.class);
         startActivity(i);
     }
 

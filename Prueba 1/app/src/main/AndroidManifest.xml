@@ -4,6 +4,8 @@
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
 
 
     <application
@@ -19,6 +21,10 @@
         <activity android:name=".ej25" />
         <activity android:name=".ejercicio15_2" />
         <activity android:name=".ejercicio15_1" />
+        <activity android:name=".ejercicio15Parte1" />
+        <activity android:name=".ej26" />
+        <activity android:name=".ej39" />
+        <activity android:name=".ej48" />
         <activity android:name=".ej15" />
         <activity android:name=".MainActivity">
             <intent-filter>

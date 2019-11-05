@@ -33,10 +33,11 @@
                 android:text="Ejercicio 14" />
 
             <Button
-                android:id="@+id/ej"
+                android:id="@+id/ej15"
                 android:layout_width="195dp"
                 android:layout_height="wrap_content"
-                android:text="Button" />
+                android:onClick="ej15"
+                android:text="Ejercicio 15" />
         </TableRow>
 
         <TableRow
@@ -51,10 +52,11 @@
                 android:text="Ejercicio 25" />
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/ej26"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button" />
+                android:onClick="ej26"
+                android:text="Ejercicio 26" />
         </TableRow>
 
         <TableRow
@@ -69,10 +71,11 @@
                 android:text="Ejercicio 36" />
 
             <Button
-                android:id="@+id/button5"
+                android:id="@+id/ej39"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button" />
+                android:onClick="ej39"
+                android:text="Ejercicio 39" />
         </TableRow>
 
         <TableRow
@@ -87,10 +90,11 @@
                 android:text=" Ejercicio 51" />
 
             <Button
-                android:id="@+id/button8"
+                android:id="@+id/ej48"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Button" />
+                android:onClick="ej48"
+                android:text="Ejercicio 48" />
         </TableRow>
     </TableLayout>
 
